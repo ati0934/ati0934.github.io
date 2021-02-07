@@ -1,0 +1,27 @@
+
+body{
+    background-color: aqua;
+}
+
+
+h1 {
+
+    font-size: 15px;
+    color: rgba(20, 59, 143, 0.425);
+
+}
+h2{
+    font-size: 20px;
+    color: green;
+}
+
+.upperCase{
+
+    text-transform: uppercase;
+
+}
+
+
+.big{
+    font-size: 30px;
+}
